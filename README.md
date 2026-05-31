@@ -68,19 +68,6 @@ Currently based in Ireland 🇮🇪 and working on cloud-native platforms, AI-as
 
 ## 📌 Featured Projects
 
-### 🚀 Kubernetes CI/CD Platform
-
-Cloud-native deployment platform using:
-
-* Kubernetes
-* AWS EKS
-* Terraform
-* GitHub Actions
-* Helm
-* Prometheus & Grafana
-
----
-
 ### 🤖 AI RAG Assistant
 
 AI-powered Retrieval-Augmented Generation application using:
@@ -90,19 +77,6 @@ AI-powered Retrieval-Augmented Generation application using:
 * Vector Databases
 * FastAPI / Golang
 * Docker
-
----
-
-### ⚡ Distributed Load Testing Framework
-
-Scalable performance testing framework leveraging:
-
-* JMeter
-* Cloud Infrastructure
-* Distributed Workloads
-* Monitoring & Reporting
-
----
 
 ## ☁️ AWS Experience
 
@@ -148,6 +122,7 @@ Currently exploring:
 * LinkedIn: https://linkedin.com/in/rohitshrivastva
 * GitHub: https://github.com/YOUR_GITHUB_USERNAME
 * Email: [rohit.shrivastva000@gmail.com](mailto:rohit.shrivastva000@gmail.com)
+* Mobile: +353 899585156
 
 ---
 
@@ -170,7 +145,3 @@ I enjoy building scalable cloud systems, exploring AI-powered engineering workfl
 * AWS Certified Solutions Architect – Associate
 
 ---
-
-## 💻 Portfolio Website
-
-Coming Soon 🚀
